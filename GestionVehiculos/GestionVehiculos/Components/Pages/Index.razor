@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@inject GestionVehiculos.Services.VehiculoService VehiculoService
+
+<h3>🚗 Gestión de Vehículos</h3>
+
+<div>
+    <input @bind="nuevoVehiculo.Nombre" placeholder="Nombre del vehículo" />
+    <input @bind="nuevoVehiculo.Modelo" placeholder="Modelo del vehículo" />
+    <button @onclick="AgregarVehiculo">Agregar</button>
+</div>
+
+<ul>
+    @foreach (var vehiculo in VehiculoService.Vehiculos)
+    {
+        <li>
+            ID: @vehiculo.Id - @vehiculo.Nombre - @vehiculo.Modelo
+            <button @onclick="() => EliminarVehiculo(vehiculo.Id)">❌ Eliminar</button>
+        </li>
+    }
+</ul>
+
+@code {
+    private GestionVehiculos.Models.VehiculoDto nuevoVehiculo = new GestionVehiculos.Models.VehiculoDto();
+
+    private void AgregarVehiculo()
+    {
+        if (!string.IsNullOrWhiteSpace(nuevoVehiculo.Nombre) && !string.IsNullOrWhiteSpace(nuevoVehiculo.Modelo))
+        {
+            VehiculoService.AgregarVehiculo(nuevoVehiculo);
+            nuevoVehiculo = new GestionVehiculos.Models.VehiculoDto(); // Limpiar campos después de agregar
+        }
+    }
+
+    private void EliminarVehiculo(int id)
+    {
+        VehiculoService.EliminarVehiculo(id);
+    }
+}

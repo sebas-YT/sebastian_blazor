@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\proyecto_blazor\\GestionVehiculos\\GestionVehiculos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestionVehiculos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestionVehiculos.54yjxvs7ur.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\proyecto_blazor\\GestionVehiculos\\GestionVehiculos\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\proyecto_blazor\\GestionVehiculos\\GestionVehiculos\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\proyecto_blazor\\GestionVehiculos\\GestionVehiculos\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\proyecto_blazor\\GestionVehiculos\\GestionVehiculos\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestionVehiculos.props",
+      "PackagePath": "build\\GestionVehiculos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionVehiculos.props",
+      "PackagePath": "buildMultiTargeting\\GestionVehiculos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestionVehiculos.props",
+      "PackagePath": "buildTransitive\\GestionVehiculos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

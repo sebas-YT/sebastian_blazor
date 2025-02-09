@@ -1,0 +1,66 @@
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\appsettings.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.staticwebassets.runtime.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.staticwebassets.endpoints.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.exe
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.deps.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.runtimeconfig.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfoInputs.cache
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfo.cs
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\bundle\GestionVehiculos.styles.css
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\projectbundle\GestionVehiculos.bundle.scp.css
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.build.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\refint\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.genruntimeconfig.cache
+C:\Users\elseb\OneDrive\Desktop\Nueva carpeta (2)\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\ref\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\appsettings.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.staticwebassets.endpoints.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.staticwebassets.runtime.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.exe
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.deps.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.runtimeconfig.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\bin\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfoInputs.cache
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.AssemblyInfo.cs
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\bundle\GestionVehiculos.styles.css
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\scopedcss\projectbundle\GestionVehiculos.bundle.scp.css
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.GestionVehiculos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.build.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GestionVehiculos.props
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\refint\GestionVehiculos.dll
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.pdb
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\GestionVehiculos.genruntimeconfig.cache
+C:\Users\elseb\OneDrive\Desktop\proyecto_blazor\GestionVehiculos\GestionVehiculos\obj\Debug\net8.0\ref\GestionVehiculos.dll
